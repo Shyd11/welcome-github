@@ -3,7 +3,11 @@ package com.app.raghu;
 public class MyDbCon {
 
 	private String driver;
+<<<<<<< HEAD
 	private String resg13;
+=======
+	private String resg12;
+>>>>>>> 30abaa343d569bfffb5735c1c988cb5a91faaa3c
 	private String url;
         private String roll;
 	//Source > Generate Constructor using Fields > Deselect All > Generate
