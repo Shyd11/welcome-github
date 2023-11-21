@@ -4,6 +4,7 @@ public class MyDbCon {
 
 	private String driver;
 	private String url;
+        private String roll;
 	//Source > Generate Constructor using Fields > Deselect All > Generate
 	public MyDbCon() {
 		super();
