@@ -1,4 +1,4 @@
-package xxxxxx.yyyyyy.zzzzzz.domain.service.user;
+package xxxxxx.yyyyyy.ssssssss.domain.service.user;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
