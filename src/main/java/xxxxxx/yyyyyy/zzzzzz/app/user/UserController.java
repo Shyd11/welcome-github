@@ -167,6 +167,7 @@ public class UserController {
 
     @RequestMapping(value = { "create", "update", "delete" }, params = "redirectToList")
     public String redirectToList() {
+    System.out.println("hello");
         return "redirect:/user/list";
     }
 }
